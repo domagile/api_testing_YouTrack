@@ -34,8 +34,8 @@ This collection focuses on the operations related to management of Project in Yo
 
 - Retrieving a list of all projects.
 - Obtaining all issues within a specific project.
-- Deleting a specific issue
 - Deleting a specific project.
+- Check that specific project was deleted.
 
 ## Conclusion
 
