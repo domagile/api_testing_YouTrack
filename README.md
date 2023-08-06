@@ -33,7 +33,6 @@ The Negative Test Collection is designed to verify the system's behavior under e
 This collection focuses on the operations related to management of Project in YouTrack. The tests are:
 
 - Retrieving a list of all projects.
-- Fetching details of a specific project.
 - Obtaining all issues within a specific project.
 - Deleting a specific issue
 - Deleting a specific project.
