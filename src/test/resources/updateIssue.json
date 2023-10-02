@@ -1,0 +1,18 @@
+{
+  "description": "Update test api",
+  "name": "BOM Project",
+  "shortName": "BOM",
+  "leader": {
+    "id": "1-2"
+  },
+  "summary": "Updated issue",
+  "customFields": [
+    {
+      "value": {
+        "name": "Major"
+      },
+      "name": "Priority",
+      "$type": "SingleEnumIssueCustomField"
+    }
+  ]
+}

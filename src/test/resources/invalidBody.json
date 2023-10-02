@@ -1,0 +1,18 @@
+{
+  "description": "Update test api",
+  "name": "BOM Project",
+  "shortName": "BOM",
+  "leader": {
+    "id": "1-2"
+  },
+  "summary": "Test + Paucek, Windler and Gerhold-Not delete",
+  "customFields": [
+    {
+      "value": {
+        "name": "Major"
+      },
+      "name": "Priority",
+      "$type": "SingleEnumIssueCustomField"
+    }
+  ]
+}

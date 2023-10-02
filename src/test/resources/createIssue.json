@@ -1,0 +1,7 @@
+{
+  "project": {
+    "id": "0-1"
+  },
+  "summary": "Test for CRUD of Issue",
+  "description": "Let's REST API."
+}
