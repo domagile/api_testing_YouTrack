@@ -2,6 +2,7 @@
 ## Introduction
 
 API tests with JUnit and RestAssured are described above. 
+
 API testing was also performed using the Postman tool.The API documentation used for the testing can be found [here](https://www.jetbrains.com/help/youtrack/devportal/youtrack-rest-api.html).
 
 All Postman requests associated with this project can be found [here](https://www.postman.com/winter-astronaut-424930/workspace/api-testing-youtrack/overview).
